@@ -6,5 +6,6 @@ class Dog
   #getter
   def name
 @this_dogs_name
+  end
 end 
 
